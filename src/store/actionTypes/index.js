@@ -1,0 +1,10 @@
+export const apiTypes = {
+  SEND_FOR_ANALYSIS: 'SEND_FOR_ANALYSIS'
+};
+
+export const dataTypes = {
+  SET_IMAGE: 'SET_IMAGE',
+  SET_USE_MAX_AREA_ONLY: 'SET_USE_MAX_AREA_ONLY',
+  RESET_DATA: 'RESET_DATA',
+  SET_IMAGE_INPUT_MODE: 'SET_IMAGE_INPUT_MODE'
+};
